@@ -1,16 +1,6 @@
+# -*- coding: utf-8 -*-
+
 {
-    'name': 'filtro_fecha_existencias',
-    'version': '1.0',
-    'category': 'Inventario',
-    'author': 'Antonio Queb',
-    'website': 'https://www.odoo.com/',
-    'license': 'LGPL-3',
-    'depends': ['stock'],
-    'data': [
-        'data/filtro_fecha_existencias_view.xml',
-        'data/filtro_fecha_existencias_model.py',
-    ],
-    'installable': True,
-    'auto_install': False,
+    'name': 'Filtro Fecha Existencias'
 }
 
