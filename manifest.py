@@ -1,5 +1,5 @@
 {
-    'name': 'Filtro por Fecha en Existencias a la Fecha',
+    'name': 'filtro_fecha_existencias',
     'version': '1.0',
     'category': 'Inventario',
     'author': 'Antonio Queb',
