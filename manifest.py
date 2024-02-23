@@ -7,8 +7,8 @@
     'license': 'LGPL-3',
     'depends': ['stock'],
     'data': [
-        'views/filtro_fecha_existencias_view.xml',
-        'models/filtro_fecha_existencias_model.py',
+        'data/filtro_fecha_existencias_view.xml',
+        'data/filtro_fecha_existencias_model.py',
     ],
     'installable': True,
     'auto_install': False,
